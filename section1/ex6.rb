@@ -1,5 +1,5 @@
 # Excercise 6 Strings Continued
-  
+
 # types_of_people is a variable assigned the value of the number 10
 types_of_people = 10
 # x is a variable assigned a string with the variable types_of_people inserted into it
@@ -18,12 +18,13 @@ p y
 
 # prints string with x variable inserted
 p "I said: #{x}."
-#prints string with y variable inserted.
+#prints string with y variable inserted or interpolated.
 p "I also said: '#{y}''."
-
+# creates variable hilarious and assigns it to false
 hilarious = false
+# creates variable and assigns it to a string that has interpolation
 joke_evaluation = "Isn't that joke so funny?! #{hilarious}."
-
+#prints variable
 p joke_evaluation
 
 w = "This is the left side of..."
@@ -31,7 +32,7 @@ e = "a string with a right side."
 
 p w + e
 
-# 4) adding  the variables w and e together is called string concatenation and will combine any two variable regardless of value just like adding numbers
+# 4) adding  the variables w and e together is called string concatenation and will combine any two variable inputs regardless of value just like adding numbers
 
 # 5) When single quotes are used instead of double quotes they work in the same manner except for running variables with single quotes in another string. After running 'string' with single quotes inside a #{} it produces \#{}. Double quotes allow for interpolat
 # single quotes also allow you to put more strings inside strings when sparsing variables.
