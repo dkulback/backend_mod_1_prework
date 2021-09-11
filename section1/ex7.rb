@@ -9,9 +9,9 @@ weight = gets.chomp
 
 puts "So, youre #{age} old, #{height} tall and #{weight} heavy."
 
-p "what is your name?"
+p "What is your name?"
 name = gets.chomp
 
-if name == "darren"
+if name == "Darren"
   puts "Hello Darren, we were expecting you!"
 end

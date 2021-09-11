@@ -63,7 +63,7 @@ p "#{is_hungry}"
 # Using the variables below, print the total number of snacks to the terminal:
 healthy_snacks = 6;
 junk_food_snacks = 8;
-puts "The total number of snacks is #{healthy_snacks + junk_food_snacks}"
+puts "The total number of snacks is #{healthy_snacks + junk_food_snacks}."
 
 
 
@@ -73,4 +73,4 @@ puts "The total number of snacks is #{healthy_snacks + junk_food_snacks}"
 
 # Did you run this file in your terminal to make sure everything printed out to the terminal
   # as you would expect?
-puts "yes"
+puts "Yes, file runs with out errors!"

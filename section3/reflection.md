@@ -1,16 +1,14 @@
 ## Section 3 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-Two points that resonated we me were over coming a fixed mindset and failing and making mistakes are integral to becoming
-a programmer and learning in general.
+Two points that resonated with me were over coming a fixed mindset, and making mistakes are integral to becoming a programmer and learning in general.
 
 1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 I have not been goal oriented in the past but am practicing writing down small daily and weekly goals. I have assessed
-and reflected on past growth from learning a skill and find it very fulfilling.
+and reflected on past growth from learning a new skill and find it very fulfilling.
 
 1. What is a Hash, and how is it different from an Array?
-A hash has a key value pair which means you can access aspects of the hash with the symbol and it will return the value pair
-associated with that key. Hashes are different from Arrays in that they are not ordered and arrays are ordered data structures and can be considered lists. 
+A hash has a key value pair which means you can access aspects of the hash with the symbol and it will return the value associated with that key. Hashes are different from Arrays in that they are not ordered and arrays are ordered data structures and can be considered lists. 
 
 1. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
 ```ruby
